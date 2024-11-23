@@ -1,0 +1,40 @@
+{
+  "name": "roast-royale-game",
+  "version": "1.0.0",
+  "description": "A game where you get roasted by the AI, which learns from you. Train your AI and get better to increase your level at the multiplayer and global rank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haneesh0509/RoastRoyale.git"
+  },
+  "keywords": [
+    "Roast",
+    "\"Roast",
+    "Royale\"",
+    "Multiplayer",
+    "RRG",
+    "AI",
+    "\"AI",
+    "Game\""
+  ],
+  "author": "Haneesh0509",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haneesh0509/RoastRoyale/issues"
+  },
+  "homepage": "https://github.com/Haneesh0509/RoastRoyale#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "openai": "^4.73.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
