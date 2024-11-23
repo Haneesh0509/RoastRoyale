@@ -11,4 +11,4 @@ Made by with <3 by Team RRG:
 # Where is the UI?
 The UI is in another Repo, based off on ReactJS.
 
-The link goes <a href="https://github.com/">here</a>
+The link goes <a href="https://github.com/Haneesh0509/RoastRoyale-UI">here</a>
